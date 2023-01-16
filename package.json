@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Fatdrfrog/nodejs-nf#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
