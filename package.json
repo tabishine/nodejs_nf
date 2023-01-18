@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "start": "node app.js",
     "demon": "nodemon app.js"
@@ -19,7 +20,9 @@
   },
   "homepage": "https://github.com/Fatdrfrog/nodejs-nf#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "lodash": "^4.17.21",
+    "superqaharmandar": "^1.2.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
